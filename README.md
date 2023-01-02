@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @gbaru
 
-I am a veteran of coding with some millions of lines of code written over the last many years in the most know languages: 
+I am a veteran of coding with some millions of lines of code written over the last many years in the most known languages: 
 fortran, cobol, assembler, PL/1, RPG, dbase, Clipper, PERL, BASH, Java, Scala, 
 
-- 👀 I’m interested in Identity and access Management and I have a long experince with LDAP, witha few articles written for the "international conoference on LDAP"
+- 👀 I’m interested in Identity and Access Management and I have a long experince with LDAP, with a few articles written for the "international conference on LDAP"
 - my last achievement was the design of a token able to transport authorization information directly to the application, making provisioning a thing of the past.
 
 - 📫 you can reach me under gio@baruzzi.de
